@@ -1,7 +1,7 @@
 # ViewBindng_Java
 ViewBinding Java Learning
 
-      //buildfeatures
+     
      buildFeatures {
          viewBinding = true
       }
